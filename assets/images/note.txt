@@ -1,0 +1,1 @@
+harvester/assets/images/screenshot.png is to be used as a placeholder for the webpage overall screeenshot
