@@ -1,0 +1,1 @@
+harvester/client/src/components are used for the layout of the visual website page.

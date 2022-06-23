@@ -1,0 +1,1 @@
+harvester/client/src/assets/images/image1.png & image2.png are placeholders to be used for website backgrounds in the future.
